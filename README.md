@@ -1,3 +1,8 @@
+
+# Data Science Experience Programme - Discover Data Science at Standard Bank
+![image](https://user-images.githubusercontent.com/94855929/222997362-6441ba97-914e-468b-a305-7fd47b0541eb.png)
+
+
 ## Logistic Regression Classification Algorithm to predict bank loan suitability 
 
 Credit / Home Loans - AutoML vs Bespoke ML
